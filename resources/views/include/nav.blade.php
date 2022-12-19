@@ -46,8 +46,8 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
             <a href="/" class="nav-item nav-link active">Home</a>
-            <a href="#jadwal" class="nav-item nav-link">Jadwal</a>
-            <a href="#paket" class="nav-item nav-link">Paket</a>
+            <a href="/jadwal" class="nav-item nav-link">Jadwal</a>
+            <a href="/paket" class="nav-item nav-link">Paket</a>
             <a href="/trainer" class="nav-item nav-link">Trainer</a>
             <a href="/kendaraan" class="nav-item nav-link">Kendaraan</a>
             <a href="/kontak" class="nav-item nav-link">Contact</a>
